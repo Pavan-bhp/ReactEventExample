@@ -1,2 +1,2 @@
-# ReactExample
+# ReactEventExample
 Simple React event application
